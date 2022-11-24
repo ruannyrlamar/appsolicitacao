@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954338454063",
+    "project_id": "solicitacao-b8af8",
+    "storage_bucket": "solicitacao-b8af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954338454063:android:10ecd3dfd6c96b4e2b74da",
+        "android_client_info": {
+          "package_name": "com.solicitacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954338454063-m2hk0njeg4u26i52isajrlc0g2b85qr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgk98rcEq9rr9aUH_SDln8pQg4g3XDMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954338454063-m2hk0njeg4u26i52isajrlc0g2b85qr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
